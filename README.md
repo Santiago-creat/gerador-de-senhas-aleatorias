@@ -40,8 +40,6 @@ Este projeto foi desenvolvido com base em uma referência/tutorial disponível n
 
 A proposta foi acompanhar o desenvolvimento, compreender a estrutura e a lógica empregadas e consolidar conhecimentos em HTML, CSS e JavaScript.
 
-**Referência:** [Nome do canal ou autor — título do vídeo](LINK DO VÍDEO)
-
 ## 🎯 Objetivo
 
 Praticar conceitos de desenvolvimento Front-end, fortalecer a lógica de programação e desenvolver autonomia na criação de aplicações web.
