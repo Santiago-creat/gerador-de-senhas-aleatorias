@@ -1,59 +1,51 @@
 # 🔐 Gerador de Senhas Aleatórias
 
-Um projeto desenvolvido com **HTML, CSS e JavaScript** para gerar senhas aleatórias de maneira simples e prática.
+Projeto desenvolvido para praticar e aprimorar conhecimentos em desenvolvimento Front-end, utilizando HTML5, CSS3 e JavaScript.
 
-## 📌 Sobre o projeto
+## 💻 Sobre o projeto
 
-O Gerador de Senhas Aleatórias é uma aplicação web desenvolvida com o objetivo de praticar conceitos fundamentais do desenvolvimento front-end.
+O Gerador de Senhas Aleatórias é uma aplicação web que permite gerar senhas de maneira prática, explorando conceitos fundamentais de programação e desenvolvimento de interfaces.
 
-A aplicação permite gerar senhas aleatórias e disponibilizá-las em um campo de visualização, proporcionando uma experiência simples e intuitiva ao usuário.
+O projeto faz parte do meu processo de aprendizagem e da construção do meu portfólio como desenvolvedor Front-end.
 
 ## 🚀 Tecnologias utilizadas
 
-- **HTML5:** estruturação dos elementos da aplicação.
-- **CSS3:** estilização e organização visual da interface.
-- **JavaScript:** implementação da lógica de geração de senhas e funcionalidades interativas.
-- **Font Awesome:** utilização de ícones na interface.
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
 
 ## ⚙️ Funcionalidades
 
 - Geração de senhas aleatórias.
-- Exibição da senha gerada em um campo de texto.
-- Funcionalidade para copiar a senha.
 - Interface simples e intuitiva.
+- Opção para copiar a senha gerada.
+- Interação com elementos da página por meio de JavaScript.
 
 ## 📂 Estrutura do projeto
 
-```text
-gerador-de-senhas-aleatorias/
-│
-├── .vscode/
-├── index.html
-├── scripts.js
-└── style.css
-```
+- `index.html` — estrutura da aplicação.
+- `style.css` — estilização e apresentação visual.
+- `scripts.js` — lógica e funcionalidades da aplicação.
 
-## 💻 Como executar o projeto
+## ▶️ Como executar
 
 1. Faça o download ou clone este repositório.
-2. Abra a pasta do projeto no Visual Studio Code.
-3. Abra o arquivo `index.html` no navegador.
-4. Utilize a aplicação para gerar senhas aleatórias.
+2. Abra a pasta do projeto.
+3. Execute o arquivo `index.html` no navegador.
 
-## 🎯 Objetivo de aprendizagem
+## 📚 Referência e aprendizado
 
-Este projeto faz parte da minha jornada de estudos em desenvolvimento web, com foco no aprimoramento dos conhecimentos em HTML, CSS e JavaScript.
+Este projeto foi desenvolvido com base em uma referência/tutorial disponível no YouTube, utilizado como ponto de partida para os estudos.
 
-O desenvolvimento tem como objetivo consolidar conceitos de manipulação do DOM, eventos, funções e lógica de programação.
+A proposta foi acompanhar o desenvolvimento, compreender a estrutura e a lógica empregadas e consolidar conhecimentos em HTML, CSS e JavaScript.
 
-## 👨‍💻 Desenvolvedor
+**Referência:** [Nome do canal ou autor — título do vídeo](LINK DO VÍDEO)
 
-**Santiago Lodeiro**
+## 🎯 Objetivo
 
-Estudante de Ciência da Computação, com foco em desenvolvimento Front-end e aprimoramento contínuo em programação.
-
-- GitHub: [Santiago-creat](https://github.com/Santiago-creat)
+Praticar conceitos de desenvolvimento Front-end, fortalecer a lógica de programação e desenvolver autonomia na criação de aplicações web.
 
 ---
 
-⭐ Projeto desenvolvido para fins de estudo e evolução profissional.# gerador-de-senhas-aleatorias
+Desenvolvido como parte dos meus estudos em programação.
